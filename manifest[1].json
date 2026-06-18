@@ -1,0 +1,16 @@
+{
+  "short_name": "Guardião Lumen",
+  "name": "Guardião de Lumen",
+  "icons": [
+    {
+      "src": "/src/assets/images/game_icon_1781653516596.jpg",
+      "type": "image/jpeg",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030308",
+  "theme_color": "#17153b",
+  "display": "standalone",
+  "orientation": "landscape"
+}
